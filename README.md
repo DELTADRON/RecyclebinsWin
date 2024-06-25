@@ -3,7 +3,7 @@
   Windows Recycle bins
 </h1>
 
-## Preview Available Themes
+## Themes
 
 <summary><b>4</b></summary>
 <img src="themes/4/Mattahan-Ultrabuuf-Trash-Empty.512.ico" width="10%">
