@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="default-bin.png" width="10%" height="5%"><br>
+<img src="default-bin.png" width="5%"><br>
   Windows Recycle bins
 </h1>
 
